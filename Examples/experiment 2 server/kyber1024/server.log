@@ -1,0 +1,36 @@
+2025-04-29 12:30:38,465 - Thread 11004 - INFO - Logging initialized
+2025-04-29 12:30:59,698 - Thread 17596 - INFO - TLS 1.3 Handshake with ('192.168.1.109', 56788) completed in 0.029593 seconds
+2025-04-29 12:30:59,719 - Thread 17596 - INFO - Key Exchange Phase for ('192.168.1.109', 56788) completed in 0.021201 seconds
+2025-04-29 12:30:59,720 - Thread 17596 - INFO - Hybrid Key Generation Phase for ('192.168.1.109', 56788) completed in 0.000879 seconds
+2025-04-29 12:30:59,734 - Thread 17596 - INFO - Hybrid signing for ('192.168.1.109', 56788) completed in 0.013847 seconds
+2025-04-29 12:30:59,734 - Thread 17596 - INFO - Message Encryption for ('192.168.1.109', 56788) completed in 0.000320 seconds
+2025-04-29 12:31:49,825 - Thread 17596 - INFO - Waiting to receive file from ('192.168.1.109', 56788)
+2025-04-29 12:31:55,318 - Thread 17596 - INFO - Total Decryption Time for Message from ('192.168.1.109', 56788): 0.313013 seconds
+2025-04-29 12:31:55,318 - Thread 17596 - INFO - Total Verification Time for Message from ('192.168.1.109', 56788): 0.426993 seconds
+2025-04-29 12:31:55,319 - Thread 17596 - INFO - Total Receive Time for Message from ('192.168.1.109', 56788): 4.724738 seconds
+2025-04-29 12:31:55,319 - Thread 17596 - INFO - The file 1745919108-g2.png was received successfully !
+2025-04-29 12:31:55,320 - Thread 17596 - INFO - Hybrid signing for ('192.168.1.109', 56788) completed in 0.000441 seconds
+2025-04-29 12:31:55,320 - Thread 17596 - INFO - Message Encryption for ('192.168.1.109', 56788) completed in 0.000131 seconds
+2025-04-29 12:32:25,368 - Thread 17596 - INFO - Waiting to receive file from ('192.168.1.109', 56788)
+2025-04-29 12:32:33,667 - Thread 17596 - INFO - Total Decryption Time for Message from ('192.168.1.109', 56788): 0.346631 seconds
+2025-04-29 12:32:33,667 - Thread 17596 - INFO - Total Verification Time for Message from ('192.168.1.109', 56788): 0.468999 seconds
+2025-04-29 12:32:33,667 - Thread 17596 - INFO - Total Receive Time for Message from ('192.168.1.109', 56788): 7.448895 seconds
+2025-04-29 12:32:33,669 - Thread 17596 - INFO - The file 1745919140-g3.png was received successfully !
+2025-04-29 12:32:33,670 - Thread 17596 - INFO - Hybrid signing for ('192.168.1.109', 56788) completed in 0.000372 seconds
+2025-04-29 12:32:33,670 - Thread 17596 - INFO - Message Encryption for ('192.168.1.109', 56788) completed in 0.000107 seconds
+2025-04-29 12:32:48,699 - Thread 17596 - INFO - Waiting to receive file from ('192.168.1.109', 56788)
+2025-04-29 12:33:04,898 - Thread 17596 - INFO - Total Decryption Time for Message from ('192.168.1.109', 56788): 0.397509 seconds
+2025-04-29 12:33:04,898 - Thread 17596 - INFO - Total Verification Time for Message from ('192.168.1.109', 56788): 0.545154 seconds
+2025-04-29 12:33:04,899 - Thread 17596 - INFO - Total Receive Time for Message from ('192.168.1.109', 56788): 15.216814 seconds
+2025-04-29 12:33:04,900 - Thread 17596 - INFO - The file 1745919166-g4.png was received successfully !
+2025-04-29 12:33:04,902 - Thread 17596 - INFO - Hybrid signing for ('192.168.1.109', 56788) completed in 0.001199 seconds
+2025-04-29 12:33:04,902 - Thread 17596 - INFO - Message Encryption for ('192.168.1.109', 56788) completed in 0.000316 seconds
+2025-04-29 12:33:09,937 - Thread 17596 - INFO - Waiting to receive file from ('192.168.1.109', 56788)
+2025-04-29 12:33:33,770 - Thread 17596 - INFO - Total Decryption Time for Message from ('192.168.1.109', 56788): 1.352185 seconds
+2025-04-29 12:33:33,770 - Thread 17596 - INFO - Total Verification Time for Message from ('192.168.1.109', 56788): 1.882482 seconds
+2025-04-29 12:33:33,770 - Thread 17596 - INFO - Total Receive Time for Message from ('192.168.1.109', 56788): 20.471717 seconds
+2025-04-29 12:33:33,773 - Thread 17596 - INFO - The file MainCamera_Flight_1745919095.avi was received successfully !
+2025-04-29 12:33:33,774 - Thread 17596 - INFO - Hybrid signing for ('192.168.1.109', 56788) completed in 0.000784 seconds
+2025-04-29 12:33:33,774 - Thread 17596 - INFO - Message Encryption for ('192.168.1.109', 56788) completed in 0.000194 seconds
+2025-04-29 12:33:55,384 - Thread 17596 - ERROR - Error with ('192.168.1.109', 56788): Expecting value: line 1 column 1 (char 0)
+2025-04-29 12:33:55,384 - Thread 17596 - INFO - Connection closed: ('192.168.1.109', 56788)

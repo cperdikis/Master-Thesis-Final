@@ -1,0 +1,30 @@
+2025-04-23 15:01:35,335 - Thread 2724 - INFO - Logging initialized
+2025-04-23 15:01:40,597 - Thread 4044 - INFO - TLS 1.3 Handshake with ('192.168.1.104', 52754) completed in 0.018535 seconds
+2025-04-23 15:01:40,660 - Thread 4044 - INFO - Key Exchange Phase for ('192.168.1.104', 52754) completed in 0.061667 seconds
+2025-04-23 15:01:40,662 - Thread 4044 - INFO - Hybrid Key Generation Phase for ('192.168.1.104', 52754) completed in 0.001122 seconds
+2025-04-23 15:01:40,670 - Thread 4044 - INFO - Hybrid signing for ('192.168.1.104', 52754) completed in 0.008170 seconds
+2025-04-23 15:01:40,670 - Thread 4044 - INFO - Message Encryption for ('192.168.1.104', 52754) completed in 0.000000 seconds
+2025-04-23 15:03:25,793 - Thread 4044 - INFO - Waiting to receive file from ('192.168.1.104', 52754)
+2025-04-23 15:03:29,978 - Thread 4044 - INFO - Total Decryption Time for Message from ('192.168.1.104', 52754): 0.272218 seconds
+2025-04-23 15:03:29,978 - Thread 4044 - INFO - Total Verification Time for Message from ('192.168.1.104', 52754): 0.402277 seconds
+2025-04-23 15:03:29,979 - Thread 4044 - INFO - The file 1745409804-g2.png was received successfully !
+2025-04-23 15:03:29,980 - Thread 4044 - INFO - Hybrid signing for ('192.168.1.104', 52754) completed in 0.001001 seconds
+2025-04-23 15:03:29,980 - Thread 4044 - INFO - Message Encryption for ('192.168.1.104', 52754) completed in 0.000000 seconds
+2025-04-23 15:03:55,015 - Thread 4044 - INFO - Waiting to receive file from ('192.168.1.104', 52754)
+2025-04-23 15:03:58,610 - Thread 4044 - INFO - Total Decryption Time for Message from ('192.168.1.104', 52754): 0.216497 seconds
+2025-04-23 15:03:58,610 - Thread 4044 - INFO - Total Verification Time for Message from ('192.168.1.104', 52754): 0.399824 seconds
+2025-04-23 15:03:58,612 - Thread 4044 - INFO - The file 1745409834-g3.png was received successfully !
+2025-04-23 15:03:58,612 - Thread 4044 - INFO - Hybrid signing for ('192.168.1.104', 52754) completed in 0.000000 seconds
+2025-04-23 15:03:58,612 - Thread 4044 - INFO - Message Encryption for ('192.168.1.104', 52754) completed in 0.000000 seconds
+2025-04-23 15:04:23,645 - Thread 4044 - INFO - Waiting to receive file from ('192.168.1.104', 52754)
+2025-04-23 15:04:26,982 - Thread 4044 - INFO - Total Decryption Time for Message from ('192.168.1.104', 52754): 0.302480 seconds
+2025-04-23 15:04:26,982 - Thread 4044 - INFO - Total Verification Time for Message from ('192.168.1.104', 52754): 0.379974 seconds
+2025-04-23 15:04:26,983 - Thread 4044 - INFO - The file 1745409859-g4.png was received successfully !
+2025-04-23 15:04:26,984 - Thread 4044 - INFO - Hybrid signing for ('192.168.1.104', 52754) completed in 0.001000 seconds
+2025-04-23 15:04:26,985 - Thread 4044 - INFO - Message Encryption for ('192.168.1.104', 52754) completed in 0.000995 seconds
+2025-04-23 15:04:57,033 - Thread 4044 - INFO - Waiting to receive file from ('192.168.1.104', 52754)
+2025-04-23 15:05:21,635 - Thread 4044 - INFO - Total Decryption Time for Message from ('192.168.1.104', 52754): 1.883115 seconds
+2025-04-23 15:05:21,635 - Thread 4044 - INFO - Total Verification Time for Message from ('192.168.1.104', 52754): 2.776485 seconds
+2025-04-23 15:05:21,636 - Thread 4044 - INFO - The file MainCamera_Flight_1745409751.avi was received successfully !
+2025-04-23 15:05:21,637 - Thread 4044 - INFO - Hybrid signing for ('192.168.1.104', 52754) completed in 0.001003 seconds
+2025-04-23 15:05:21,637 - Thread 4044 - INFO - Message Encryption for ('192.168.1.104', 52754) completed in 0.000000 seconds

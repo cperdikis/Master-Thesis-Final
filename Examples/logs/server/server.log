@@ -1,0 +1,89 @@
+2025-05-09 11:53:59,257 - Thread 22388 - INFO - Logging initialized
+2025-05-15 11:32:02,110 - Thread 10200 - INFO - Logging initialized
+2025-05-15 11:33:07,808 - Thread 11372 - INFO - Logging initialized
+2025-05-15 11:33:12,349 - Thread 1900 - INFO - TLS 1.3 Handshake with ('127.0.0.1', 50688) completed in 0.006187 seconds
+2025-05-15 11:33:12,353 - Thread 1900 - INFO - Key Exchange Phase for ('127.0.0.1', 50688) completed in 0.003650 seconds
+2025-05-15 11:33:12,357 - Thread 1900 - INFO - Hybrid Key Generation Phase for ('127.0.0.1', 50688) completed in 0.003915 seconds
+2025-05-15 11:33:12,374 - Thread 1900 - INFO - Hybrid signing for ('127.0.0.1', 50688) completed in 0.016649 seconds
+2025-05-15 11:33:12,375 - Thread 1900 - INFO - Message Encryption for ('127.0.0.1', 50688) completed in 0.000694 seconds
+2025-05-15 11:33:37,428 - Thread 1900 - INFO - Waiting to receive file from ('127.0.0.1', 50688)
+2025-05-15 11:33:38,226 - Thread 1900 - INFO - Total Decryption Time for Message from ('127.0.0.1', 50688): 0.176067 seconds
+2025-05-15 11:33:38,226 - Thread 1900 - INFO - Total Verification Time for Message from ('127.0.0.1', 50688): 0.244840 seconds
+2025-05-15 11:33:38,226 - Thread 1900 - INFO - Total Receive Time for Message from ('127.0.0.1', 50688): 0.362484 seconds
+2025-05-15 11:33:38,226 - Thread 1900 - INFO - The file 1745917627-g2.png was received successfully !
+2025-05-15 11:33:38,226 - Thread 1900 - INFO - Hybrid signing for ('127.0.0.1', 50688) completed in 0.000314 seconds
+2025-05-15 11:33:38,226 - Thread 1900 - INFO - Message Encryption for ('127.0.0.1', 50688) completed in 0.000087 seconds
+2025-05-15 11:33:38,226 - Thread 1900 - INFO - Waiting to receive file from ('127.0.0.1', 50688)
+2025-05-15 11:33:39,101 - Thread 1900 - INFO - Total Decryption Time for Message from ('127.0.0.1', 50688): 0.161200 seconds
+2025-05-15 11:33:39,101 - Thread 1900 - INFO - Total Verification Time for Message from ('127.0.0.1', 50688): 0.271343 seconds
+2025-05-15 11:33:39,101 - Thread 1900 - INFO - Total Receive Time for Message from ('127.0.0.1', 50688): 0.428481 seconds
+2025-05-15 11:33:39,101 - Thread 1900 - INFO - The file 1745917652-g3.png was received successfully !
+2025-05-15 11:33:39,101 - Thread 1900 - INFO - Hybrid signing for ('127.0.0.1', 50688) completed in 0.000348 seconds
+2025-05-15 11:33:39,101 - Thread 1900 - INFO - Message Encryption for ('127.0.0.1', 50688) completed in 0.000121 seconds
+2025-05-15 11:33:39,101 - Thread 1900 - INFO - Waiting to receive file from ('127.0.0.1', 50688)
+2025-05-15 11:33:39,883 - Thread 1900 - INFO - Total Decryption Time for Message from ('127.0.0.1', 50688): 0.150637 seconds
+2025-05-15 11:33:39,883 - Thread 1900 - INFO - Total Verification Time for Message from ('127.0.0.1', 50688): 0.253933 seconds
+2025-05-15 11:33:39,883 - Thread 1900 - INFO - Total Receive Time for Message from ('127.0.0.1', 50688): 0.363174 seconds
+2025-05-15 11:33:39,898 - Thread 1900 - INFO - The file 1745917677-g4.png was received successfully !
+2025-05-15 11:33:39,898 - Thread 1900 - INFO - Hybrid signing for ('127.0.0.1', 50688) completed in 0.000487 seconds
+2025-05-15 11:33:39,898 - Thread 1900 - INFO - Message Encryption for ('127.0.0.1', 50688) completed in 0.000124 seconds
+2025-05-15 11:34:07,558 - Thread 1900 - ERROR - Error with ('127.0.0.1', 50688): Expecting value: line 1 column 1 (char 0)
+2025-05-15 11:34:07,559 - Thread 1900 - INFO - Connection closed: ('127.0.0.1', 50688)
+2025-05-15 11:34:29,780 - Thread 7040 - INFO - Logging initialized
+2025-05-15 11:34:36,357 - Thread 3440 - INFO - TLS 1.3 Handshake with ('127.0.0.1', 50693) completed in 0.002512 seconds
+2025-05-15 11:34:36,358 - Thread 3440 - INFO - Key Exchange Phase for ('127.0.0.1', 50693) completed in 0.000773 seconds
+2025-05-15 11:34:36,359 - Thread 3440 - INFO - Hybrid Key Generation Phase for ('127.0.0.1', 50693) completed in 0.000884 seconds
+2025-05-15 11:34:36,366 - Thread 3440 - INFO - Hybrid signing for ('127.0.0.1', 50693) completed in 0.007205 seconds
+2025-05-15 11:34:36,367 - Thread 3440 - INFO - Message Encryption for ('127.0.0.1', 50693) completed in 0.000318 seconds
+2025-05-15 11:34:46,389 - Thread 3440 - INFO - Waiting to receive file from ('127.0.0.1', 50693)
+2025-05-15 11:34:47,189 - Thread 3440 - INFO - Total Decryption Time for Message from ('127.0.0.1', 50693): 0.150305 seconds
+2025-05-15 11:34:47,189 - Thread 3440 - INFO - Total Verification Time for Message from ('127.0.0.1', 50693): 0.204464 seconds
+2025-05-15 11:34:47,189 - Thread 3440 - INFO - Total Receive Time for Message from ('127.0.0.1', 50693): 0.429653 seconds
+2025-05-15 11:34:47,190 - Thread 3440 - INFO - The file 1745917627-g2.png was received successfully !
+2025-05-15 11:34:47,190 - Thread 3440 - INFO - Hybrid signing for ('127.0.0.1', 50693) completed in 0.000633 seconds
+2025-05-15 11:34:47,191 - Thread 3440 - INFO - Message Encryption for ('127.0.0.1', 50693) completed in 0.000081 seconds
+2025-05-15 11:34:47,194 - Thread 3440 - INFO - Waiting to receive file from ('127.0.0.1', 50693)
+2025-05-15 11:34:48,067 - Thread 3440 - INFO - Total Decryption Time for Message from ('127.0.0.1', 50693): 0.161860 seconds
+2025-05-15 11:34:48,067 - Thread 3440 - INFO - Total Verification Time for Message from ('127.0.0.1', 50693): 0.218157 seconds
+2025-05-15 11:34:48,067 - Thread 3440 - INFO - Total Receive Time for Message from ('127.0.0.1', 50693): 0.477184 seconds
+2025-05-15 11:34:48,069 - Thread 3440 - INFO - The file 1745917652-g3.png was received successfully !
+2025-05-15 11:34:48,070 - Thread 3440 - INFO - Hybrid signing for ('127.0.0.1', 50693) completed in 0.000694 seconds
+2025-05-15 11:34:48,070 - Thread 3440 - INFO - Message Encryption for ('127.0.0.1', 50693) completed in 0.000119 seconds
+2025-05-15 11:34:48,074 - Thread 3440 - INFO - Waiting to receive file from ('127.0.0.1', 50693)
+2025-05-15 11:34:48,886 - Thread 3440 - INFO - Total Decryption Time for Message from ('127.0.0.1', 50693): 0.148283 seconds
+2025-05-15 11:34:48,886 - Thread 3440 - INFO - Total Verification Time for Message from ('127.0.0.1', 50693): 0.203548 seconds
+2025-05-15 11:34:48,886 - Thread 3440 - INFO - Total Receive Time for Message from ('127.0.0.1', 50693): 0.444236 seconds
+2025-05-15 11:34:48,888 - Thread 3440 - INFO - The file 1745917677-g4.png was received successfully !
+2025-05-15 11:34:48,889 - Thread 3440 - INFO - Hybrid signing for ('127.0.0.1', 50693) completed in 0.001058 seconds
+2025-05-15 11:34:48,889 - Thread 3440 - INFO - Message Encryption for ('127.0.0.1', 50693) completed in 0.000157 seconds
+2025-05-15 11:35:04,154 - Thread 3440 - ERROR - Error with ('127.0.0.1', 50693): Expecting value: line 1 column 1 (char 0)
+2025-05-15 11:35:04,154 - Thread 3440 - INFO - Connection closed: ('127.0.0.1', 50693)
+2025-05-15 12:14:32,646 - Thread 11336 - INFO - Logging initialized
+2025-05-15 12:15:21,868 - Thread 7756 - INFO - TLS 1.3 Handshake with ('127.0.0.1', 51224) completed in 0.004299 seconds
+2025-05-15 12:15:21,869 - Thread 7756 - INFO - Key Exchange Phase for ('127.0.0.1', 51224) completed in 0.000791 seconds
+2025-05-15 12:15:21,870 - Thread 7756 - INFO - Hybrid Key Generation Phase for ('127.0.0.1', 51224) completed in 0.000785 seconds
+2025-05-15 12:15:21,877 - Thread 7756 - INFO - Hybrid signing for ('127.0.0.1', 51224) completed in 0.007089 seconds
+2025-05-15 12:15:21,878 - Thread 7756 - INFO - Message Encryption for ('127.0.0.1', 51224) completed in 0.000267 seconds
+2025-05-15 12:15:21,887 - Thread 7756 - INFO - Waiting to receive file from ('127.0.0.1', 51224)
+2025-05-15 12:15:22,701 - Thread 7756 - INFO - Total Decryption Time for Message from ('127.0.0.1', 51224): 0.152229 seconds
+2025-05-15 12:15:22,701 - Thread 7756 - INFO - Total Verification Time for Message from ('127.0.0.1', 51224): 0.254090 seconds
+2025-05-15 12:15:22,701 - Thread 7756 - INFO - Total Receive Time for Message from ('127.0.0.1', 51224): 0.391493 seconds
+2025-05-15 12:15:22,702 - Thread 7756 - INFO - The file 1745917627-g2.png was received successfully !
+2025-05-15 12:15:22,702 - Thread 7756 - INFO - Hybrid signing for ('127.0.0.1', 51224) completed in 0.000571 seconds
+2025-05-15 12:15:22,703 - Thread 7756 - INFO - Message Encryption for ('127.0.0.1', 51224) completed in 0.000141 seconds
+2025-05-15 12:15:22,707 - Thread 7756 - INFO - Waiting to receive file from ('127.0.0.1', 51224)
+2025-05-15 12:15:23,682 - Thread 7756 - INFO - Total Decryption Time for Message from ('127.0.0.1', 51224): 0.180427 seconds
+2025-05-15 12:15:23,683 - Thread 7756 - INFO - Total Verification Time for Message from ('127.0.0.1', 51224): 0.299033 seconds
+2025-05-15 12:15:23,683 - Thread 7756 - INFO - Total Receive Time for Message from ('127.0.0.1', 51224): 0.474766 seconds
+2025-05-15 12:15:23,684 - Thread 7756 - INFO - The file 1745917652-g3.png was received successfully !
+2025-05-15 12:15:23,685 - Thread 7756 - INFO - Hybrid signing for ('127.0.0.1', 51224) completed in 0.000466 seconds
+2025-05-15 12:15:23,685 - Thread 7756 - INFO - Message Encryption for ('127.0.0.1', 51224) completed in 0.000224 seconds
+2025-05-15 12:15:23,688 - Thread 7756 - INFO - Waiting to receive file from ('127.0.0.1', 51224)
+2025-05-15 12:15:24,589 - Thread 7756 - INFO - Total Decryption Time for Message from ('127.0.0.1', 51224): 0.175636 seconds
+2025-05-15 12:15:24,590 - Thread 7756 - INFO - Total Verification Time for Message from ('127.0.0.1', 51224): 0.286553 seconds
+2025-05-15 12:15:24,590 - Thread 7756 - INFO - Total Receive Time for Message from ('127.0.0.1', 51224): 0.418533 seconds
+2025-05-15 12:15:24,591 - Thread 7756 - INFO - The file 1745917677-g4.png was received successfully !
+2025-05-15 12:15:24,592 - Thread 7756 - INFO - Hybrid signing for ('127.0.0.1', 51224) completed in 0.000454 seconds
+2025-05-15 12:15:24,592 - Thread 7756 - INFO - Message Encryption for ('127.0.0.1', 51224) completed in 0.000151 seconds
+2025-05-15 12:15:29,227 - Thread 7756 - ERROR - Error with ('127.0.0.1', 51224): Expecting value: line 1 column 1 (char 0)
+2025-05-15 12:15:29,227 - Thread 7756 - INFO - Connection closed: ('127.0.0.1', 51224)

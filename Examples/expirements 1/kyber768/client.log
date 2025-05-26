@@ -1,0 +1,45 @@
+2025-04-23 15:01:40,574 - Thread 548234759008 - INFO - Logging initialized
+2025-04-23 15:01:40,629 - Thread 548234759008 - INFO - TLS 1.3 Handshake completed in 0.020978 seconds
+2025-04-23 15:01:40,643 - Thread 548234759008 - INFO - Key Exchange Phase for Client 1 completed in 0.013965 seconds
+2025-04-23 15:01:40,646 - Thread 548234759008 - INFO - Hybrid Key Generation Phase for Client 1 completed in 0.001977 seconds
+2025-04-23 15:01:40,710 - Thread 548234759008 - INFO - Message Decryption for Client 1 completed in 0.001402 seconds
+2025-04-23 15:01:40,726 - Thread 548234759008 - INFO - Hybrid Signing Verification for Client 1 completed in 0.014939 seconds
+2025-04-23 15:01:40,726 - Thread 548234759008 - INFO - Message received from Server is b'Send File Header'
+2025-04-23 15:01:40,727 - Thread 548234759008 - INFO - File Header Requested form Server
+2025-04-23 15:01:40,727 - Thread 548234759008 - INFO - Waiting for files in /home/jetson/Documents/eac_osdk-master/eac-medium-voltage/build/bin/PhotoDump/...
+2025-04-23 15:03:25,815 - Thread 548234759008 - INFO - New file detected: 1745409804-g2.png with size 3289878
+2025-04-23 15:03:29,977 - Thread 548234759008 - INFO - Total Signing Time for Message: 1.889973 seconds
+2025-04-23 15:03:29,978 - Thread 548234759008 - INFO - Total Encryption Time for Message: 0.493076 seconds
+2025-04-23 15:03:29,982 - Thread 548234759008 - INFO - File /home/jetson/Documents/eac_osdk-master/eac-medium-voltage/build/bin/PhotoDump/1745409804-g2.png sent and deleted.
+2025-04-23 15:03:30,022 - Thread 548234759008 - INFO - Message Decryption for Client 1 completed in 0.000665 seconds
+2025-04-23 15:03:30,023 - Thread 548234759008 - INFO - Hybrid Signing Verification for Client 1 completed in 0.001132 seconds
+2025-04-23 15:03:30,024 - Thread 548234759008 - INFO - Message received from Server is b'Send File Header'
+2025-04-23 15:03:30,024 - Thread 548234759008 - INFO - File Header Requested form Server
+2025-04-23 15:03:30,024 - Thread 548234759008 - INFO - Waiting for files in /home/jetson/Documents/eac_osdk-master/eac-medium-voltage/build/bin/PhotoDump/...
+2025-04-23 15:03:55,051 - Thread 548234759008 - INFO - New file detected: 1745409834-g3.png with size 3757918
+2025-04-23 15:03:58,640 - Thread 548234759008 - INFO - Total Signing Time for Message: 1.984814 seconds
+2025-04-23 15:03:58,640 - Thread 548234759008 - INFO - Total Encryption Time for Message: 0.419435 seconds
+2025-04-23 15:03:58,643 - Thread 548234759008 - INFO - File /home/jetson/Documents/eac_osdk-master/eac-medium-voltage/build/bin/PhotoDump/1745409834-g3.png sent and deleted.
+2025-04-23 15:03:58,656 - Thread 548234759008 - INFO - Message Decryption for Client 1 completed in 0.000566 seconds
+2025-04-23 15:03:58,659 - Thread 548234759008 - INFO - Hybrid Signing Verification for Client 1 completed in 0.001057 seconds
+2025-04-23 15:03:58,659 - Thread 548234759008 - INFO - Message received from Server is b'Send File Header'
+2025-04-23 15:03:58,659 - Thread 548234759008 - INFO - File Header Requested form Server
+2025-04-23 15:03:58,660 - Thread 548234759008 - INFO - Waiting for files in /home/jetson/Documents/eac_osdk-master/eac-medium-voltage/build/bin/PhotoDump/...
+2025-04-23 15:04:23,679 - Thread 548234759008 - INFO - New file detected: 1745409859-g4.png with size 3645740
+2025-04-23 15:04:27,016 - Thread 548234759008 - INFO - Total Signing Time for Message: 1.888652 seconds
+2025-04-23 15:04:27,016 - Thread 548234759008 - INFO - Total Encryption Time for Message: 0.431187 seconds
+2025-04-23 15:04:27,020 - Thread 548234759008 - INFO - File /home/jetson/Documents/eac_osdk-master/eac-medium-voltage/build/bin/PhotoDump/1745409859-g4.png sent and deleted.
+2025-04-23 15:04:27,033 - Thread 548234759008 - INFO - Message Decryption for Client 1 completed in 0.000560 seconds
+2025-04-23 15:04:27,034 - Thread 548234759008 - INFO - Hybrid Signing Verification for Client 1 completed in 0.001054 seconds
+2025-04-23 15:04:27,035 - Thread 548234759008 - INFO - Message received from Server is b'Send File Header'
+2025-04-23 15:04:27,035 - Thread 548234759008 - INFO - File Header Requested form Server
+2025-04-23 15:04:27,036 - Thread 548234759008 - INFO - Waiting for files in /home/jetson/Documents/eac_osdk-master/eac-medium-voltage/build/bin/PhotoDump/...
+2025-04-23 15:04:57,061 - Thread 548234759008 - INFO - New file detected: MainCamera_Flight_1745409751.avi with size 27792942
+2025-04-23 15:05:21,669 - Thread 548234759008 - INFO - Total Signing Time for Message: 14.362713 seconds
+2025-04-23 15:05:21,670 - Thread 548234759008 - INFO - Total Encryption Time for Message: 3.223751 seconds
+2025-04-23 15:05:21,683 - Thread 548234759008 - INFO - File /home/jetson/Documents/eac_osdk-master/eac-medium-voltage/build/bin/PhotoDump/MainCamera_Flight_1745409751.avi sent and deleted.
+2025-04-23 15:05:21,684 - Thread 548234759008 - INFO - Message Decryption for Client 1 completed in 0.000564 seconds
+2025-04-23 15:05:21,685 - Thread 548234759008 - INFO - Hybrid Signing Verification for Client 1 completed in 0.000971 seconds
+2025-04-23 15:05:21,686 - Thread 548234759008 - INFO - Message received from Server is b'Send File Header'
+2025-04-23 15:05:21,686 - Thread 548234759008 - INFO - File Header Requested form Server
+2025-04-23 15:05:21,686 - Thread 548234759008 - INFO - Waiting for files in /home/jetson/Documents/eac_osdk-master/eac-medium-voltage/build/bin/PhotoDump/...

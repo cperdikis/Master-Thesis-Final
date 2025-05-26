@@ -1,0 +1,30 @@
+2025-04-23 14:53:40,716 - Thread 2540 - INFO - Logging initialized
+2025-04-23 14:54:42,600 - Thread 21192 - INFO - TLS 1.3 Handshake with ('192.168.1.104', 52748) completed in 0.012630 seconds
+2025-04-23 14:54:42,620 - Thread 21192 - INFO - Key Exchange Phase for ('192.168.1.104', 52748) completed in 0.019565 seconds
+2025-04-23 14:54:42,621 - Thread 21192 - INFO - Hybrid Key Generation Phase for ('192.168.1.104', 52748) completed in 0.000964 seconds
+2025-04-23 14:54:42,628 - Thread 21192 - INFO - Hybrid signing for ('192.168.1.104', 52748) completed in 0.006994 seconds
+2025-04-23 14:54:42,628 - Thread 21192 - INFO - Message Encryption for ('192.168.1.104', 52748) completed in 0.000000 seconds
+2025-04-23 14:55:47,716 - Thread 21192 - INFO - Waiting to receive file from ('192.168.1.104', 52748)
+2025-04-23 14:55:50,884 - Thread 21192 - INFO - Total Decryption Time for Message from ('192.168.1.104', 52748): 0.203064 seconds
+2025-04-23 14:55:50,885 - Thread 21192 - INFO - Total Verification Time for Message from ('192.168.1.104', 52748): 0.249578 seconds
+2025-04-23 14:55:50,885 - Thread 21192 - INFO - The file 1745409344-g2.png was received successfully !
+2025-04-23 14:55:50,886 - Thread 21192 - INFO - Hybrid signing for ('192.168.1.104', 52748) completed in 0.000000 seconds
+2025-04-23 14:55:50,886 - Thread 21192 - INFO - Message Encryption for ('192.168.1.104', 52748) completed in 0.000000 seconds
+2025-04-23 14:56:20,941 - Thread 21192 - INFO - Waiting to receive file from ('192.168.1.104', 52748)
+2025-04-23 14:56:25,177 - Thread 21192 - INFO - Total Decryption Time for Message from ('192.168.1.104', 52748): 0.356858 seconds
+2025-04-23 14:56:25,177 - Thread 21192 - INFO - Total Verification Time for Message from ('192.168.1.104', 52748): 0.292590 seconds
+2025-04-23 14:56:25,177 - Thread 21192 - INFO - The file 1745409378-g3.png was received successfully !
+2025-04-23 14:56:25,177 - Thread 21192 - INFO - Hybrid signing for ('192.168.1.104', 52748) completed in 0.000000 seconds
+2025-04-23 14:56:25,177 - Thread 21192 - INFO - Message Encryption for ('192.168.1.104', 52748) completed in 0.000000 seconds
+2025-04-23 14:56:45,217 - Thread 21192 - INFO - Waiting to receive file from ('192.168.1.104', 52748)
+2025-04-23 14:56:49,750 - Thread 21192 - INFO - Total Decryption Time for Message from ('192.168.1.104', 52748): 0.292463 seconds
+2025-04-23 14:56:49,750 - Thread 21192 - INFO - Total Verification Time for Message from ('192.168.1.104', 52748): 0.399775 seconds
+2025-04-23 14:56:49,750 - Thread 21192 - INFO - The file 1745409401-g4.png was received successfully !
+2025-04-23 14:56:49,750 - Thread 21192 - INFO - Hybrid signing for ('192.168.1.104', 52748) completed in 0.000000 seconds
+2025-04-23 14:56:49,750 - Thread 21192 - INFO - Message Encryption for ('192.168.1.104', 52748) completed in 0.000000 seconds
+2025-04-23 14:57:39,824 - Thread 21192 - INFO - Waiting to receive file from ('192.168.1.104', 52748)
+2025-04-23 14:58:03,980 - Thread 21192 - INFO - Total Decryption Time for Message from ('192.168.1.104', 52748): 1.756329 seconds
+2025-04-23 14:58:03,980 - Thread 21192 - INFO - Total Verification Time for Message from ('192.168.1.104', 52748): 2.892648 seconds
+2025-04-23 14:58:03,981 - Thread 21192 - INFO - The file MainCamera_Flight_1745409326.avi was received successfully !
+2025-04-23 14:58:03,981 - Thread 21192 - INFO - Hybrid signing for ('192.168.1.104', 52748) completed in 0.000000 seconds
+2025-04-23 14:58:03,981 - Thread 21192 - INFO - Message Encryption for ('192.168.1.104', 52748) completed in 0.000000 seconds

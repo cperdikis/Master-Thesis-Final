@@ -1,0 +1,5 @@
+Timestamp,Client_IP,Connection_ID,Encryption_Used,Signing_Used,Classic_Encryption_SharedSecret_Length,PQC_Encryption_SharedSecret_Length,Hybrid_AES_Key_Length,Classical_Signature_Length,PQC_Signature_Length,Signed_Msg_Length,Encrypted_Msg_Length,Chunk_Size,Original_Msg_Size
+55:50.9,1,1,ECDH_SECP256R1+KYBER1024,Dilithium2,32,32,32,72,2044,8349,11214,4096,3683220
+56:25.2,1,1,ECDH_SECP256R1+KYBER1024,Dilithium2,32,32,32,72,2044,8349,11214,4096,3810746
+56:49.7,1,1,ECDH_SECP256R1+KYBER1024,Dilithium2,32,32,32,72,2044,8349,11214,4096,3722136
+58:04.0,1,1,ECDH_SECP256R1+KYBER1024,Dilithium2,32,32,32,72,2044,8349,11214,4096,33297966

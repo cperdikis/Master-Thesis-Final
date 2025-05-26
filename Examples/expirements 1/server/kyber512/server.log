@@ -1,0 +1,33 @@
+2025-04-23 14:33:00,522 - Thread 3868 - INFO - Logging initialized
+2025-04-23 14:33:11,242 - Thread 20432 - INFO - Logging initialized
+2025-04-23 14:33:22,477 - Thread 19628 - INFO - TLS 1.3 Handshake with ('192.168.1.104', 52730) completed in 0.011812 seconds
+2025-04-23 14:33:22,547 - Thread 19628 - INFO - Key Exchange Phase for ('192.168.1.104', 52730) completed in 0.069993 seconds
+2025-04-23 14:33:22,550 - Thread 19628 - INFO - Hybrid Key Generation Phase for ('192.168.1.104', 52730) completed in 0.002182 seconds
+2025-04-23 14:33:22,573 - Thread 19628 - INFO - Hybrid signing for ('192.168.1.104', 52730) completed in 0.022974 seconds
+2025-04-23 14:33:22,573 - Thread 19628 - INFO - Message Encryption for ('192.168.1.104', 52730) completed in 0.000000 seconds
+2025-04-23 14:34:17,653 - Thread 19628 - INFO - Waiting to receive file from ('192.168.1.104', 52730)
+2025-04-23 14:34:21,585 - Thread 19628 - INFO - Total Decryption Time for Message from ('192.168.1.104', 52730): 0.261817 seconds
+2025-04-23 14:34:21,585 - Thread 19628 - INFO - Total Verification Time for Message from ('192.168.1.104', 52730): 0.448636 seconds
+2025-04-23 14:34:21,586 - Thread 19628 - INFO - The file 1745408057-g2.png was received successfully !
+2025-04-23 14:34:21,587 - Thread 19628 - INFO - Hybrid signing for ('192.168.1.104', 52730) completed in 0.001002 seconds
+2025-04-23 14:34:21,587 - Thread 19628 - INFO - Message Encryption for ('192.168.1.104', 52730) completed in 0.000000 seconds
+2025-04-23 14:34:51,652 - Thread 19628 - INFO - Waiting to receive file from ('192.168.1.104', 52730)
+2025-04-23 14:34:54,982 - Thread 19628 - INFO - Total Decryption Time for Message from ('192.168.1.104', 52730): 0.288411 seconds
+2025-04-23 14:34:54,982 - Thread 19628 - INFO - Total Verification Time for Message from ('192.168.1.104', 52730): 0.399889 seconds
+2025-04-23 14:34:54,982 - Thread 19628 - INFO - The file 1745408088-g3.png was received successfully !
+2025-04-23 14:34:54,982 - Thread 19628 - INFO - Hybrid signing for ('192.168.1.104', 52730) completed in 0.000000 seconds
+2025-04-23 14:34:54,982 - Thread 19628 - INFO - Message Encryption for ('192.168.1.104', 52730) completed in 0.000000 seconds
+2025-04-23 14:35:15,030 - Thread 19628 - INFO - Waiting to receive file from ('192.168.1.104', 52730)
+2025-04-23 14:35:18,717 - Thread 19628 - INFO - Total Decryption Time for Message from ('192.168.1.104', 52730): 0.308534 seconds
+2025-04-23 14:35:18,717 - Thread 19628 - INFO - Total Verification Time for Message from ('192.168.1.104', 52730): 0.417858 seconds
+2025-04-23 14:35:18,717 - Thread 19628 - INFO - The file 1745408113-g4.png was received successfully !
+2025-04-23 14:35:18,732 - Thread 19628 - INFO - Hybrid signing for ('192.168.1.104', 52730) completed in 0.015515 seconds
+2025-04-23 14:35:18,732 - Thread 19628 - INFO - Message Encryption for ('192.168.1.104', 52730) completed in 0.000000 seconds
+2025-04-23 14:36:03,780 - Thread 19628 - INFO - Waiting to receive file from ('192.168.1.104', 52730)
+2025-04-23 14:36:29,931 - Thread 19628 - INFO - Total Decryption Time for Message from ('192.168.1.104', 52730): 1.819128 seconds
+2025-04-23 14:36:29,931 - Thread 19628 - INFO - Total Verification Time for Message from ('192.168.1.104', 52730): 2.565684 seconds
+2025-04-23 14:36:29,932 - Thread 19628 - INFO - The file MainCamera_Flight_1745408036.avi was received successfully !
+2025-04-23 14:36:29,932 - Thread 19628 - INFO - Hybrid signing for ('192.168.1.104', 52730) completed in 0.000000 seconds
+2025-04-23 14:36:29,932 - Thread 19628 - INFO - Message Encryption for ('192.168.1.104', 52730) completed in 0.000000 seconds
+2025-04-23 14:36:29,933 - Thread 19628 - ERROR - Error with ('192.168.1.104', 52730): Unterminated string starting at: line 1 column 16 (char 15)
+2025-04-23 14:36:29,933 - Thread 19628 - INFO - Connection closed: ('192.168.1.104', 52730)
