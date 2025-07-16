@@ -1,6 +1,6 @@
 # Master-Thesis
-# Investigating Post-Quantum Cryptography in Resource-Constrained Networked Embedded Systems
-### A Case Study on Hybrid TLS 1.3 Deployment in UAV-Based Infrastructure Inspection
+# Deploying Post-Quantum Cryptography in Resource-Constrained Networked Embedded Systems
+### A Case Study on Hybrid TLS 1.3 in UAV-Based Infrastructure Inspection Systems
 
 ## Author: Charalampos Perdikis
 
